@@ -1,0 +1,7 @@
+DEPENDENCIES
+  mytomcatcookbook
+    path: .
+    metadata: true
+
+GRAPH
+  mytomcatcookbook (0.1.2)

@@ -1,0 +1,7 @@
+DEPENDENCIES
+  my2ndcookbook
+    path: .
+    metadata: true
+
+GRAPH
+  my2ndcookbook (0.1.0)

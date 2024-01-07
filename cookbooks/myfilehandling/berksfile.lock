@@ -1,0 +1,7 @@
+DEPENDENCIES
+  myfilehandling
+    path: .
+    metadata: true
+
+GRAPH
+  myfilehandling (0.1.4)

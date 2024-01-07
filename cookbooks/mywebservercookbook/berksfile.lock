@@ -1,0 +1,13 @@
+DEPENDENCIES
+  mywebservercookbook
+    path: .
+    metadata: true
+
+GRAPH
+  apparmor (4.1.10)
+    line (>= 0.0.0)
+  line (4.5.17)
+  mysql (11.1.4)
+    apparmor (>= 0.0.0)
+  mywebservercookbook (0.2.6)
+    mysql (>= 0.0.0)
